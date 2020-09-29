@@ -1,0 +1,29 @@
+{
+    "listaProductos":[
+        {
+            "titulo":"Creality® Impresora 3D de Resina LD-001",
+            "imagen":"https://www.pcfactory.cl/public/foto/30754/2_500.jpg?t:1544624549" ,
+            "valor":"387990",
+            "descripcion":"Tecnología de primera: Con una altura de capa por defecto de 0.5mm, las capas de tus impresiones podrán ser tan delgadas como la mitad del espesor de una hoja, o similares al pelo humano. Esto te permitirá detalles sin precedentes en impresoras 3D no industriales. ",
+            "stock":"5"
+        },{
+            "titulo":"Apple® iPhone SE 64GB Negro",
+             "imagen":"https://www.pcfactory.cl/public/foto/37395/1_500.jpg?t:1596168093" ,
+            "valor":"426790",
+             "descripcion":"El iPhone SE llegó con todo: el chip más potente en el tamaño más popular, a un precio muy conveniente. Justo lo que estabas esperando. El iPhone SE tiene el mismo cerebro que el iPhone 11 Pro: el chip A13 Bionic, el más rápido que existe en un smartphone. Lo comprobarás cuando abras apps, juegues y uses la realidad aumentada. Podrás hacer de todo con total fluidez.",
+             "stock":"8"
+        },{
+            "titulo":"Apple® Smartwatch Apple Watch Series 3 (GPS + Cellular), 38 mm Space Grey Aluminium case with Black Sport Band Movistar",
+            "imagen":"https://www.pcfactory.cl/public/foto/37452/1_500.jpg?t:1596168131",
+            "valor":"246890",
+            "descripcion":"Marca: Apple Color: Space Grey Modelo Series 3 (GPS+Cellular) Apple Watch Caja de aluminio y correa deportiva Prestaciones GPS, GLONASS, Galileo y QZSS",
+            "stock":"4"
+        },{
+            "titulo":"Asus® Notebook Zenbook Pro Duo UX581GV Intel i9-9980HK NVIDIA RTX 2060 6GB 15.6' UHD 1TB SSD 32GB Windows 10 Blue UX581GV-H2001T",
+            "imagen":"https://www.pcfactory.cl/public/foto/34898/2_500.jpg?t:1578927960",
+            "valor":"2799990",
+            "descripcion":"¡Lleva tu creatividad y productividad al siguiente nivel con el innovador ASUS ZenBook Pro Duo! Diseñado para brindarle la máxima ventaja en la eficiencia del flujo de trabajo, el diseño único presenta un ScreenPad ™ Plus de ancho completo que funciona a la perfección con la pantalla OLED 4K UHD principal. Nunca ha sido tan fácil aprovechar todo tu poder creativo.",
+            "stock":"1"
+        }
+    ]
+}
